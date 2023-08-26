@@ -460,6 +460,13 @@ footer a{
         align-items: center;
 
         padding: 1rem;
+
+        overflow: hidden;
+        margin-bottom: 3rem;
+    }
+
+    .form{
+        overflow: hidden;
     }
 
     .containerProducts{
