@@ -479,6 +479,7 @@ footer a{
         align-items: center;
         margin-top: 2rem;
         overflow: hidden;
+        height: 100vh;
     }
 
     .containerProducts figure{
